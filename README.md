@@ -6,4 +6,5 @@
 * Comando Git Pull
 * Comando Git Fetch
 * Comando para criar uma nova Branch
+* Comando para dar switch nas branchs 
   
