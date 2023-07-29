@@ -4,5 +4,5 @@
 
 * Usando Git Push
 * Comando Git Pull
-* * Comando Git Fetch
+*  Comando Git Fetch
   
